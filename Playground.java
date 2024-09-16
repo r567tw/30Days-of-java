@@ -36,5 +36,9 @@ class Playground {
 
         // // 再次印出 x 的值
         // System.out.println("第二次印 x: " + x);  // 仍然輸出 x: 4
+
+        //  Math Class...
+        // Math.sin(0) Math.cos(0) Math.tan() Math.PI
+        // Math.log Math.exp Math.sqrt Math.abs Math.pow
     }
 }
