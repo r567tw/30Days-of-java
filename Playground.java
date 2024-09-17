@@ -38,7 +38,10 @@ class Playground {
         // System.out.println("第二次印 x: " + x);  // 仍然輸出 x: 4
 
         //  Math Class...
-        // Math.sin(0) Math.cos(0) Math.tan() Math.PI
-        // Math.log Math.exp Math.sqrt Math.abs Math.pow
+        // Day 3 => Math 
+        // Day 4 => String 
+        // Day 5=> if...else , 
+        // day 6 = switch
+        // Day 7 => while
     }
 }
