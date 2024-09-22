@@ -7,3 +7,4 @@
 - Day05: String
 - Day06: IF...Else
 - Day07: Switch
+- Day08: While
