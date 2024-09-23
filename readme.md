@@ -8,3 +8,4 @@
 - Day06: IF...Else
 - Day07: Switch
 - Day08: While
+- Day09: Palindrome
