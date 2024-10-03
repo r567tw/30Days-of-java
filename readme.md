@@ -10,3 +10,4 @@
 - Day08: While
 - Day09: Palindrome
 - Day10: GuessNumber
+- Day11: Function
