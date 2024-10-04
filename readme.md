@@ -1,4 +1,4 @@
-# Java 100 Days Coding
+# Java 50 Days Coding
 
 - Day01: HelloWorld
 - Day02: Covert Temperature
@@ -11,3 +11,4 @@
 - Day09: Palindrome
 - Day10: GuessNumber
 - Day11: Function
+- Day12: Private , Public , Protected
