@@ -17,3 +17,4 @@
 - Day15: Extend
 - Day16: Overloading
 - Day17: Abstract
+- Day18: Interface & Implement
