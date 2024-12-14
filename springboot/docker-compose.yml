@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  springboot-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./src:/app/src  # 掛載本地 src 到容器內的 src 目錄
+      - ./target:/app/target  # 掛載目標目錄，用來保存編譯後的文件
+    environment:
+      - JAVA_OPTS=-Xmx512m
